@@ -1,4 +1,4 @@
-# Implementation of RL Algorithms to Understand Them
+# Notes and implementation of RL Algorithms
 
 This repository contains implementations of various Reinforcement Learning (RL) algorithms to better understand their mechanics and applications.
 
