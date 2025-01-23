@@ -5,3 +5,5 @@ This repository contains implementations of various Reinforcement Learning (RL) 
 ### Paper to Read:
 [Proximal Policy Optimization](https://arxiv.org/pdf/1707.06347)  
 Paper link: Proximal Policy Optimization (PPO)
+
+[TRPO](https://arxiv.org/pdf/1502.05477)
